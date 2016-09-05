@@ -1,2 +1,2 @@
 # Hello-world
-It's just new
+Hi there... Am the new guy
